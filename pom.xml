@@ -193,7 +193,7 @@
 					<configuration>
 						<warSourceDirectory>src/main/webapp</warSourceDirectory>
 						<warName>Spring4MVCFileUploadDownloadWithHibernate</warName>
-						<failOnMissingWebXml>false</failOnMissingWebXml>
+						
 					</configuration>
 				</plugin>
 			</plugins>
